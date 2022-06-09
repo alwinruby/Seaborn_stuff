@@ -1,1 +1,3 @@
-# Seaborn_stuff
+# Seaborn stuff
+
+Introduction to coding for data visualisation.
